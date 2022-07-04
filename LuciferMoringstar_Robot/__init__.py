@@ -33,7 +33,7 @@ ABOUT = """
 ➥ Creator : [Naughty PROFESSOR](
 https://youtube.com/c/NaughtyPROFESSOR)
 
-➥ Language : Python3
+➥ Language : Mallu
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
