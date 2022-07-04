@@ -30,10 +30,9 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : @cristow666
 
-➥ Language : Mallu
+➥ Language : Python
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
